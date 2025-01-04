@@ -1,0 +1,21 @@
+Component Name,Price ($),Rating,Performance,Purpose,Compatibility,Category_GPU,Category_Monitor,Category_Motherboard,Category_RAM,Category_Storage
+AMD Ryzen 9 5950X,749,4.8,High,Content Creation,"High-end GPUs, X570 MB",0.0,0.0,0.0,0.0,0.0
+Intel Core i9-11900K,539,4.6,High,Gaming,"High-end GPUs, Z590 MB",0.0,0.0,0.0,0.0,0.0
+Intel Core i7-11700K,399,4.7,Mid,Multitasking,"Mid-range GPUs, Z590 MB",0.0,0.0,0.0,0.0,0.0
+AMD Ryzen 5 5600X,299,4.5,Mid,Budget Gaming,"Mid-range GPUs, B550 MB",0.0,0.0,0.0,0.0,0.0
+MSI MAG B550 TOMAHAWK,189,4.6,High,Gaming,Ryzen CPUs,0.0,0.0,1.0,0.0,0.0
+ASRock B450 Steel Legend,129,4.4,Mid,Budget Builds,Ryzen CPUs,0.0,0.0,1.0,0.0,0.0
+ASUS ROG Strix X570-E Gaming,319,4.7,High,High-End Builds,Ryzen CPUs,0.0,0.0,1.0,0.0,0.0
+GIGABYTE B550 AORUS PRO,189,4.4,Mid,Gaming,Ryzen CPUs,0.0,0.0,1.0,0.0,0.0
+NVIDIA GeForce RTX 3060 Ti,499,4.7,Mid,Gaming,"Mid-range CPUs, 650W PSU",1.0,0.0,0.0,0.0,0.0
+AMD Radeon RX 6700 XT,579,4.6,Mid,Gaming,"Mid-range CPUs, 650W PSU",1.0,0.0,0.0,0.0,0.0
+NVIDIA GeForce RTX 3080,1099,4.8,High,Rendering,"High-end CPUs, 750W PSU",1.0,0.0,0.0,0.0,0.0
+AMD Radeon RX 6800 XT,799,4.6,High,Gamingg,"High-end CPUs, 750W PSU",1.0,0.0,0.0,0.0,0.0
+Crucial Ballistix 32GB,149,4.6,High,Multitasking,All Motherboards,0.0,0.0,0.0,1.0,0.0
+Corsair Vengeance LPX,129,4.5,Mid,General Use,All Motherboards,0.0,0.0,0.0,1.0,0.0
+Corsair Vengeance RGB Pro,169,4.9,High,Gaming,All Motherboards,0.0,0.0,0.0,1.0,0.0
+G.SKILL Trident Z Neo,189,4.7,High,Overclocking,Ryzen Builds,0.0,0.0,0.0,1.0,0.0
+Crucial MX500,99,4.8,Mid,General Use,All Systems,0.0,0.0,0.0,0.0,1.0
+Samsung 970 EVO Plus,179,4.9,High,High-End Builds,All Systems,0.0,0.0,0.0,0.0,1.0
+Dell S2721DGF,449,4.7,High,Content Creation,All Systems,0.0,1.0,0.0,0.0,0.0
+AOC CQ32G1,299,4.5,Mid,Office Use,All Systems,0.0,1.0,0.0,0.0,0.0
