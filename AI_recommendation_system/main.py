@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import LabelEncoder
 
 # Load the processed dataset
-df = pd.read_csv('processed_PC_Components.csv')
+df = pd.read_csv('AI_recommendation_system/processed_PC_Components.csv.csv')
 
 # Initialize LabelEncoder for categorical columns
 label_encoder = LabelEncoder()
